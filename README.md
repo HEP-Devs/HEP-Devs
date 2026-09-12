@@ -7,17 +7,17 @@
 <h3 align="center">A passionate backend developer</h3>
 <br>
 
-# 🧐 Know me more :
+# 🧐 Know me more:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
 👶 I was born in 1999<br>📚 I'm currently a software engineering bachelor's graduate.<br>👨‍💻 I’m a junior C# programmer<br>🔭 I’m currently working on telegram bots<br>🌱 I’m currently learning "Master C#"<br>❤ I really love science, especially in the fields of neuroscience and quantum physics.<br>♻ Stimulants to continue life: Having tons of daughters, music festivals (dj festivals), and galaxy/space (in my opinion😊)<br>🤬 I hate the association of 14-5 Eyes, freemasonry and meta<br><br><br><br><br>
 
 
-# 🛰 Connect with me :
+# 🛰 How to reach me:
 <p align="left">
 <a href="https://t.me/hepdev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/Telegram.svg" alt="telegram" height="40" width="50" /></a>
 </p><br>
 
-# 💻 Tech Stack :
+# 💻 Tech Stack:
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/C%23.svg" alt="csharp" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/DotNET.svg" alt="dotnet" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/Git.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/MSQL.svg" alt="mssql" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/PostgreSQL.svg" alt="postgresql" width="40" height="40"/> </a> </p> <br>
 
 <!--
