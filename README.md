@@ -9,7 +9,7 @@
 
 # 🧐 Know me more:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="290" />
-👶 I was born in 1999<br>📚 I'm currently a software engineering bachelor's graduate.<br>👨‍💻 I’m a junior C# programmer<br>🔭 I’m currently working on telegram bots<br>🌱 I’m currently learning "Master C#"<br>❤ I really love science, especially in the fields of neuroscience and quantum physics.<br>♻ Stimulants to continue life: Having tons of daughters, music festivals (dj festivals), and galaxy/space (in my opinion😊)<br>🤬 I hate the association of 14-5 Eyes, freemasonry and meta<br><br><br><br><br>
+👶 I was born in 1999<br>📚 I'm currently a software engineering bachelor's graduate.<br>👨‍💻 I’m a junior C# programmer<br>🔭 I’m currently working on telegram bots<br>🌱 I’m currently learning "Master C#"<br>❤ I really love science, especially in the fields of neuroscience and quantum physics.<br>♻ Stimulants to continue life: Having tons of daughters, music festivals (dj festivals), and galaxy-space-ufo-aliens (in my opinion😊)<br>🤬 I hate the association of 14-5 Eyes, freemasonry and meta<br><br><br><br><br>
 
 
 # 🛰 How to reach me:
