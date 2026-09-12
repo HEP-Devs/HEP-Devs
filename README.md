@@ -14,7 +14,7 @@
 
 # 🛰 Connect with me :
 <p align="left">
-<a href="https://t.me/hepdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/Telegram.svg" alt="none" height="40" width="50" /></a>
+<a href="https://t.me/hepdev" target="blank"><img align="center" src="https://github.com/HosseinEP-Dev/HosseinEP-Dev/refs/heads/main/Telegram.svg" alt="none" height="40" width="50" /></a>
 </p><br>
 
 # 💻 Tech Stack :
