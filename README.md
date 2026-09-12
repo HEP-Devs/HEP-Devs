@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HosseinEP-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="sdf" /> </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+Pal%2C+Sup%3F;%F0%9F%A4%9D+I'm+HEP+Dev;%F0%9F%AB%B5+You+Can+Call+Me+%22H%22;%F0%9F%A4%99+Welcome+To+My+Github" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey+Pal%2C+Sup%3F;%F0%9F%A4%9D+I'm+HEP+Dev;%F0%9F%AB%B5+You+Can+Call+Me+%22H%22;%F0%9F%A4%99+Welcome+To+My+Github" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">A passionate backend developer</h3>
 <br>
