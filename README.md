@@ -17,7 +17,7 @@
 <a href="https://t.me/hepdev" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/Telegram.svg" alt="telegram" height="40" width="50" /></a>
 </p><br>
 
-# 💻 Tech Stack:
+# 💻 Tech stack:
 <p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/C%23.svg" alt="csharp" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/DotNET.svg" alt="dotnet" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/Git.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/MSQL.svg" alt="mssql" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/HEP-Devs/HEP-Devs/refs/heads/main/PostgreSQL.svg" alt="postgresql" width="40" height="40"/> </a> </p> <br>
 
 <!--
